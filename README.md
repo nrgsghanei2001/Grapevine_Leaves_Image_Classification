@@ -13,7 +13,7 @@ This project involves the classification of grapevine leaf images using data min
 - **Model Architecture:**
   - Implemented Convolutional Neural Networks (CNNs) for image classification tasks.
   - Used libraries such as Keras and PyTorch for building and training CNN models.
-  - Leveraged pre-trained models (VGG19, ResNet, ...) to improve classification performance.
+  - Used pre-trained models (VGG19, ResNet, ...) to improve classification performance.
 
 - **Dimensionality Reduction and Denoising:**
   - Applied autoencoders for denoising and dimensionality reduction.
